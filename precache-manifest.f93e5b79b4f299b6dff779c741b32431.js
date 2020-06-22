@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4073de51fb8c4dcc383d324e10572a8",
+    "revision": "7348c101e67f3e41a781174ecc16021b",
     "url": "/myspace/index.html"
   },
   {
-    "revision": "83fc8dae5e18bbe46bd2",
+    "revision": "c9b61f87bd5efbbacde8",
     "url": "/myspace/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myspace/static/js/2.25a61a9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83fc8dae5e18bbe46bd2",
-    "url": "/myspace/static/js/main.57b7d840.chunk.js"
+    "revision": "c9b61f87bd5efbbacde8",
+    "url": "/myspace/static/js/main.1659083b.chunk.js"
   },
   {
     "revision": "a6e0c6ef9efc9d1881e2",
     "url": "/myspace/static/js/runtime-main.39326157.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/myspace/static/media/logo.5d5d9eef.svg"
+    "revision": "492e02a366eae894e01584347533d418",
+    "url": "/myspace/static/media/Happenings.492e02a3.svg"
   }
 ]);
