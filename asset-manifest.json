@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myspace/static/css/main.bfa04731.chunk.css",
+    "main.css": "/myspace/static/css/main.f882fefe.chunk.css",
     "main.js": "/myspace/static/js/main.e6883894.chunk.js",
     "main.js.map": "/myspace/static/js/main.e6883894.chunk.js.map",
     "runtime-main.js": "/myspace/static/js/runtime-main.39326157.js",
@@ -8,16 +8,16 @@
     "static/js/2.25a61a9a.chunk.js": "/myspace/static/js/2.25a61a9a.chunk.js",
     "static/js/2.25a61a9a.chunk.js.map": "/myspace/static/js/2.25a61a9a.chunk.js.map",
     "index.html": "/myspace/index.html",
-    "precache-manifest.5fe3a5ada587fde5650fc359766f082c.js": "/myspace/precache-manifest.5fe3a5ada587fde5650fc359766f082c.js",
+    "precache-manifest.5567f104add5c7a0b4b4a8543892dd47.js": "/myspace/precache-manifest.5567f104add5c7a0b4b4a8543892dd47.js",
     "service-worker.js": "/myspace/service-worker.js",
-    "static/css/main.bfa04731.chunk.css.map": "/myspace/static/css/main.bfa04731.chunk.css.map",
+    "static/css/main.f882fefe.chunk.css.map": "/myspace/static/css/main.f882fefe.chunk.css.map",
     "static/js/2.25a61a9a.chunk.js.LICENSE.txt": "/myspace/static/js/2.25a61a9a.chunk.js.LICENSE.txt",
     "static/media/Happenings.svg": "/myspace/static/media/Happenings.492e02a3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.39326157.js",
     "static/js/2.25a61a9a.chunk.js",
-    "static/css/main.bfa04731.chunk.css",
+    "static/css/main.f882fefe.chunk.css",
     "static/js/main.e6883894.chunk.js"
   ]
 }
